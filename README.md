@@ -1,6 +1,8 @@
-# Running Intervals 
+<p align="center">
+  <img width="450" alt="Running Intervals" src="https://github.com/jessfeliciano/running-intervals/assets/38792828/73b503d0-7d90-4cb5-ac09-8e90d9b40559">
+</p>
+
 ### *alpha* version
-  <img width="50" alt="Running Intervals" src="https://github.com/jessfeliciano/running-intervals/assets/38792828/dd97e6e2-7f35-4663-80d4-ea67d67c2254">
 
 Running Intervals is a mobile first React app for runners to use on the go. Intervals are 60 seconds long and you will alternate between running and walking. Run for as long as you can and when you're done, you'll be given the amount of time you spent running vs. walking. 
 
